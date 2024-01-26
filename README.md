@@ -1,0 +1,1 @@
+A simple python tool to rename your assets only by selecting your folder(s) !
