@@ -10,7 +10,7 @@ rename_pref = {
     unreal.EditorUtilityWidgetBlueprint : "EUW_",
     unreal.WidgetBlueprint : "WBP_",
     unreal.Blueprint : "BP_",
-    unreal.PCGGraph : "PCG_",
+    unreal.PCGraph : "PCG_",
     # unreal.CurveBase : "CF_",
     unreal.Material : "M_",
     unreal.MaterialInstance : "MI_",
